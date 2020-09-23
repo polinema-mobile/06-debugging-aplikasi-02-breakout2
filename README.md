@@ -1,4 +1,11 @@
-# Elegant_Calculator
+## 🧮 Breakout 2
+
+1. 
+2. 22_1841720078_Reza Rinaldi
+
+---
+
+### Elegant_Calculator
 Features - 
 1) Responsive UI.
 2) It can perform all basic operations.
