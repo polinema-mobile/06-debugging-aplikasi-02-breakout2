@@ -1,6 +1,6 @@
 ## 🧮 Breakout 2
 
-1. 
+1. 06_1841720180_Ardyansyah Vira B
 2. 22_1841720078_Reza Rinaldi
 
 ---
