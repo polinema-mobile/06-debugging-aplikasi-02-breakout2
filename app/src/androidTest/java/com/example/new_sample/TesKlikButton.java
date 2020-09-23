@@ -27,4 +27,80 @@ public class TesKlikButton {
         onView(withId(R.id.input)).check(matches(withText("1")));
     }
 
+    @Test
+    public void tesKlikButtonDua(){
+        //cari id button2 terus di klik
+        onView(withId(R.id.button2)).perform(click());
+        onView(withId(R.id.input)).check(matches(withText("2")));
+    }
+
+    @Test
+    public void tesKlikButtonTiga(){
+        //cari id button3 terus di klik
+        onView(withId(R.id.button3)).perform(click());
+        onView(withId(R.id.input)).check(matches(withText("3")));
+    }
+
+    @Test
+    public void tesKlikButtonEmpat(){
+        //cari id button2 terus di klik
+        onView(withId(R.id.button4)).perform(click());
+        onView(withId(R.id.input)).check(matches(withText("4")));
+    }
+
+    @Test
+    public void tesKlikButtonSatu(){
+        //cari id button1 terus di klik
+        onView(withId(R.id.button1)).perform(click());
+        onView(withId(R.id.input)).check(matches(withText("1")));
+    }
+
+    @Test
+    public void tesKlikButtonDua(){
+        //cari id button2 terus di klik
+        onView(withId(R.id.button2)).perform(click());
+        onView(withId(R.id.input)).check(matches(withText("2")));
+    }
+
+    @Test
+    public void tesKlikButtonTiga(){
+        //cari id button3 terus di klik
+        onView(withId(R.id.button3)).perform(click());
+        onView(withId(R.id.input)).check(matches(withText("3")));
+    }
+
+    @Test
+    public void tesKlikButtonEmpat(){
+        //cari id button2 terus di klik
+        onView(withId(R.id.button4)).perform(click());
+        onView(withId(R.id.input)).check(matches(withText("4")));
+    }
+
+    @Test
+    public void tesKlikButtonEmpat(){
+        //cari id button2 terus di klik
+        onView(withId(R.id.button4)).perform(click());
+        onView(withId(R.id.input)).check(matches(withText("4")));
+    }
+
+    @Test
+    public void tesKlikButtonTiga(){
+        //cari id button3 terus di klik
+        onView(withId(R.id.button3)).perform(click());
+        onView(withId(R.id.input)).check(matches(withText("3")));
+    }
+
+    @Test
+    public void tesKlikButtonEmpat(){
+        //cari id button2 terus di klik
+        onView(withId(R.id.button4)).perform(click());
+        onView(withId(R.id.input)).check(matches(withText("4")));
+    }
+
+    @Test
+    public void tesKlikButtonEmpat(){
+        //cari id button2 terus di klik
+        onView(withId(R.id.button4)).perform(click());
+        onView(withId(R.id.input)).check(matches(withText("4")));
+    }
 }
